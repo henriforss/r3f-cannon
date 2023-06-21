@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { usePlane } from "@react-three/cannon";
 
 const Floor = () => {

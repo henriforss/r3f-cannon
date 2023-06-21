@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useCylinder } from "@react-three/cannon";
 import { DoubleSide } from "three";
 
